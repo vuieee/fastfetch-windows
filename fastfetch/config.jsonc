@@ -1,0 +1,26 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "logo": {
+        "type": "sixel",
+        "source": "C:/Users/User/.config/fastfetch/aisaka.png",
+        "width": 20,
+        "height": 10,
+        "padding": { "right": 2 }
+    },
+    "display": {
+        "separator": " ",
+        "color": { "keys": "white" }
+    },
+    "modules": [
+        { "key": "╭───────────╮", "type": "custom" },
+        { "key": "│   os      │", "type": "custom", "format": "Windows 11 Pro 26H2" },
+        { "key": "│   shell   │", "type": "custom", "format": "oh-my-posh" },
+        { "key": "│   cpu     │", "type": "custom", "format": "i5-13420H" },
+        { "key": "│   dgpu    │", "type": "custom", "format": "NVIDIA GeForce RTX 4050 Mobile 6GB (70W)" },
+        { "key": "│   igpu    │", "type": "custom", "format": "Intel UHD Graphics Xe G4 48EUs (45W)" },
+        { "key": "│   ram     │", "type": "custom", "format": "16GB DDR5 RAM" },
+        { "key": "│   disk    │", "type": "custom", "format": "512GB NVME SSD" },
+        { "key": "│   disk    │", "type": "custom", "format": "2TB NVME SSD" },
+        { "key": "╰───────────╯", "type": "custom" }
+    ]
+}
