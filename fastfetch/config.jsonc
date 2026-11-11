@@ -9,11 +9,11 @@
     },
     "display": {
         "separator": " ",
-        "color": { "keys": "white" }
+        "color": { "keys": "blue" }
     },
     "modules": [
         { "key": "╭───────────╮", "type": "custom" },
-        { "key": "│   os      │", "type": "custom", "format": "Windows 11 Pro 26H2" },
+        { "key": "│   os      │", "type": "custom", "format": "Windows 11 Pro" },
         { "key": "│   shell   │", "type": "custom", "format": "oh-my-posh" },
         { "key": "│   cpu     │", "type": "custom", "format": "i5-13420H" },
         { "key": "│   gpu     │", "type": "custom", "format": "RTX 4050 Mobile 6GB (70W)" },
