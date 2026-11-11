@@ -6,20 +6,6 @@
 
 </div>
 
-## About
-
-This is my terminal setup for Windows 11. It pairs a boxed, icon-free fastfetch layout and an image logo with an Oh My Posh prompt, all running in Windows Terminal with PowerShell 7.
-
-It works with Windows Terminal on Windows 11. The logo is drawn with Sixel, which Windows Terminal supports from version 1.22.
-
-## Features
-
-- Image logo instead of ASCII art, drawn with Sixel
-- Boxed layout with a white border
-- Lists OS, shell, CPU, dedicated GPU, integrated GPU, RAM, and both SSDs
-- No Nerd Font icons needed, so there are no missing-glyph question marks
-- Prompt styled with Chris Titus's Oh My Posh PowerShell profile
-
 ### Requirements
 
 - Windows 11
