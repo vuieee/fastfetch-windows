@@ -1,8 +1,6 @@
 <div align="center">
 
-# Fastfetch Windows Terminal Setup
-
-A minimal fastfetch layout with an image logo, built for Windows Terminal on Windows 11.
+# my fastfetch config
 
 <img src="desktopsetup.png" alt="Desktop setup" width="800">
 
@@ -21,19 +19,6 @@ It works with Windows Terminal on Windows 11. The logo is drawn with Sixel, whic
 - Lists OS, shell, CPU, dedicated GPU, integrated GPU, RAM, and both SSDs
 - No Nerd Font icons needed, so there are no missing-glyph question marks
 - Prompt styled with Chris Titus's Oh My Posh PowerShell profile
-
-## Tech Stack
-
-| Part | Choice |
-| --- | --- |
-| OS | Windows 11 |
-| Terminal | Windows Terminal (1.22 or newer) |
-| Shell | PowerShell 7 |
-| Prompt | Oh My Posh, using Chris Titus's PowerShell profile |
-| System info | Fastfetch |
-| Font | JetBrains Mono |
-
-## Getting Started
 
 ### Requirements
 
